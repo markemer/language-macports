@@ -1,0 +1,13 @@
+{
+  "name": "language-macports",
+  "version": "0.1.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "macports"
+  ],
+  "repository": "https://github.com/markemer/language-macports",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
